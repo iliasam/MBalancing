@@ -9,8 +9,9 @@ This device consists of:
   
 ADXL345 accelerometer must be fixed at the body of the motor, perpendicular to its shaft.  
 STM32 is capturing data from X/Y axis of ADXL345 and send them to the Windows utility using USB-VCP.  
-Zero angle sensor is used for measuring real RPM and for measuring vibration phase phase shift. Black marking must be drawn at the shaft of the motor.  
-
+  
+Zero angle sensor is used for measuring real RPM and for measuring vibration phase shift. Black marking must be drawn at the shaft of the motor.  
+  
 Windows utility is displaying:  
 * Shaft RPM and rotation speed in Hz
 * X axis raw data plot  
