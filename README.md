@@ -28,6 +28,6 @@ PA5 - ADXL345 SPI CLK
 PA6 - ADXL345 SPI MISO  
 PA7 - ADXL345 SPI MOSI  
 PB0 - ADXL345 SPI CSn  
-PB1 - ADXL345 IRQ line  
+PB1 - ADXL345 INT1 line  
   
 Firmware is assembled with CubeMX for Keil, PC utility is build in MS VS 2017.  
